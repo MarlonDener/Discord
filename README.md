@@ -27,6 +27,6 @@ This is a Discord interface clone
 5) Finally open the project on your localhost
 
 
-![calc](https://user-images.githubusercontent.com/70349830/112334552-470fc480-8c9a-11eb-84c7-9cf06d488098.jpg)
+![image](https://user-images.githubusercontent.com/70349830/112691782-956cc100-8e5c-11eb-893a-e34549eeb57f.png)
 
 thank you so much!
