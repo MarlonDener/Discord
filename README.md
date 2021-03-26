@@ -1,26 +1,32 @@
-# discord
+<h1>Calculator</h1>
 
-## Project setup
-```
-npm install
-```
+This is a Discord interface clone 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<h3>Technology used:</h3>
+<table>
+  <tr>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>VUE.JS</td>
+  </tr>
+   <tr>
+    <td>*</td>
+    <td>*</td>
+    <td>3.0</td>
+  </tr>
+  
+  
+</table>
 
-### Compiles and minifies for production
-```
-npm run build
-```
+<h3>How to run the application:</h3>
 
-### Lints and fixes files
-```
-npm run lint
-```
+1) Make sure you have Vue js, if not, follow the steps here 
+2) Open your folder in CDM
+3) run CMD - npm install
+4) run CMD - npm run serve
+5) Finally open the project on your localhost
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# Discord
-"# Discord" 
+
+![calc](https://user-images.githubusercontent.com/70349830/112334552-470fc480-8c9a-11eb-84c7-9cf06d488098.jpg)
+
+thank you so much!
