@@ -1,4 +1,4 @@
-<h1>Calculator</h1>
+<h1>Clone Discord</h1>
 
 This is a Discord interface clone 
 
