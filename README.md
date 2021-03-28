@@ -20,7 +20,7 @@ This is a Discord interface clone
 
 <h3>How to run the application:</h3>
 
-1) Make sure you have Vue js
+1) Make sure you have Vue js, if not, follow the steps - https://br.vuejs.org/v2/guide/installation.html
 2) Open your folder in CDM
 3) run CMD - npm install
 4) run CMD - npm run serve
